@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Placemark>
+<name>SocialWeb</name>
+<description>SocialWeb</description>
+<Point>
+<coordinates>4.900,52.367</coordinates>
+</Point>
+</Placemark>
+</kml>
+
